@@ -1,0 +1,31 @@
+# Git
+.git
+.gitignore
+
+# Python artefacts
+__pycache__
+*.py[cod]
+*.pyo
+venv/
+.venv/
+env/
+
+# Jupyter / development files
+*.ipynb
+.ipynb_checkpoints/
+*.png
+
+# Data files (mount at runtime via volume instead)
+research_centers.csv
+research_centers_clustered.csv
+
+# Docs
+README.md
+
+# Environment drafts
+.env.draft
+.env
+
+# OS
+.DS_Store
+Thumbs.db
