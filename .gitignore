@@ -17,14 +17,12 @@ build/
 *.ipynb_checkpoints
 
 # Data & model artefacts (do NOT commit large binaries to git)
-research_centers_clustered.csv
 
 # Environment files (never commit secrets)
 .env
 *.env
 
 # Docker
-.dockerignore
 
 # OS
 .DS_Store
