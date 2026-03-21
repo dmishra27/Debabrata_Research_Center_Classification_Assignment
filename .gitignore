@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data & model artefacts (do NOT commit large binaries to git)
+research_centers_clustered.csv
+
+# Environment files (never commit secrets)
+.env
+*.env
+
+# Docker
+.dockerignore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+iframe_figures/ 
+__pycache__/ 
+.ipynb_checkpoints/ 
+iframe_figures/ 
+__pycache__/ 
+.ipynb_checkpoints/ 
