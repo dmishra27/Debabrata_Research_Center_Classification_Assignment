@@ -12,7 +12,7 @@ on internal infrastructure and external healthcare access features.
 | Algorithm | K-Means clustering (k=3, silhouette score = 0.5519) |
 | Features | `internalFacilitiesCount`, `hospitals_10km`, `pharmacies_10km`, `facilityDiversity_10km`, `facilityDensity_10km` |
 | Deployment | FastAPI endpoint — `POST /predict` |
-| Bonus | Dockerfile · docker-compose · Geospatial map · Plotly dashboard · Claude AI assistant |
+| Extra | Dockerfile · docker-compose · Geospatial map · Plotly dashboard · Rule-based AI assistant |
 
 ---
 
@@ -112,7 +112,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## Docker Deployment (Bonus)
+## Docker Deployment (Extra)
 
 ```bash
 # Build and run with docker-compose
