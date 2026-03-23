@@ -16,6 +16,17 @@ on internal infrastructure and external healthcare access features.
 
 ---
 
+## View Notebook Online
+
+For the best viewing experience:
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/dmishra27/Debabrata_Research_Center_Classification_Assignment/blob/main/EDA_and_Model.ipynb)
+
+Or directly:
+https://nbviewer.org/github/dmishra27/Debabrata_Research_Center_Classification_Assignment/blob/main/EDA_and_Model.ipynb
+
+---
+
 ## Notebooks
 
 | File | Description |
