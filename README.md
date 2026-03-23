@@ -25,6 +25,11 @@ For the best viewing experience:
 Or directly:
 https://nbviewer.org/github/dmishra27/Debabrata_Research_Center_Classification_Assignment/blob/main/EDA_and_Model.ipynb
 
+> **Note:** Interactive Plotly charts (geospatial map, animated plots,
+> dashboard) require JavaScript and are best viewed by running the
+> notebook locally or via the nbviewer link above.
+> GitHub notebook preview does not render interactive charts.
+
 ---
 
 ## Notebooks
